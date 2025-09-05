@@ -5,7 +5,7 @@ mongo:
 
 app:
   image:
-    repository: abdullah78623/organic-ghee
+    repository: sinchan7/organic-ghee
     tag: v1
   containerPort: 5656
   replicas: 1
